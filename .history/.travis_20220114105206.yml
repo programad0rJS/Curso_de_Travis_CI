@@ -1,0 +1,23 @@
+#  Travis CI te permite hacer testing y despliegue de tus
+
+#  proyectos de forma muy rápida y sencilla. Integra tus
+
+#  proyectos desde Github con Travis CI y genera procesos
+
+#  automáticos de compilado, ejecución de pruebas unitarias
+
+
+#  y generación de reportes. Evita el caos de última hora en
+
+#  tus proyectos haciendo monitoreo constante de las
+
+#  métricas de tu proyecto. 
+
+
+ # . Sincronizar tus proyectos de Github con Travis CI
+
+ # . Identificar el flujo de integración con Travis CI
+
+ # . Generar reportes de despliegue de proyectos
+ 
+ # . Implementar el flujo de pruebas unitarias para despliegue en Heroku

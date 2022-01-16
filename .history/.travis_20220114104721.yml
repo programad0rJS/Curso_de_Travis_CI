@@ -1,0 +1,7 @@
+#  Travis CI te permite hacer testing y despliegue de tus
+#  proyectos de forma muy rápida y sencilla. Integra tus
+#  proyectos desde Github con Travis CI y genera procesos
+#  automáticos de compilado, ejecución de pruebas unitarias
+#  y generación de reportes. Evita el caos de última hora en
+#  tus proyectos haciendo monitoreo constante de las
+#  métricas de tu proyecto.
